@@ -1,5 +1,5 @@
 {
-  "name": "RobloxPlaces",
+  "name": "Am I Guilty?",
   "tree": {
     "$className": "DataModel",
 
@@ -15,6 +15,13 @@
         "$ignoreUnknownInstances": true,
         "$path": "src/StarterPlayer/StarterCharacterScripts"
       },
+
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$ignoreUnknownInstances": true,
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      },
+
       "$ignoreUnknownInstances": true
     },
 
