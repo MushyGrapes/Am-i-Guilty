@@ -12,17 +12,17 @@
       "$className": "StarterPlayer",
       "StarterCharacterScripts": {
         "$className": "StarterCharacterScripts",
-        "$ignoreUnknownInstances": true,
+        "$ignoreUnknownInstances": false,
         "$path": "src/StarterPlayer/StarterCharacterScripts"
       },
 
       "StarterPlayerScripts": {
         "$className": "StarterPlayerScripts",
-        "$ignoreUnknownInstances": true,
+        "$ignoreUnknownInstances": false,
         "$path": "src/StarterPlayer/StarterPlayerScripts"
       },
 
-      "$ignoreUnknownInstances": true
+      "$ignoreUnknownInstances": false
     },
 
     "ServerStorage": {
